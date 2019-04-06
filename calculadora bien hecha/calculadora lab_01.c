@@ -1,14 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "calcu.h"
-/*
-5. Salir
-*/
+
 int main()
 {
     float numeroUno=0;
     float numeroDos=0;
-    float suma=0;// lo igualo a 0 para que se returnee a 0 y no me tire el numero anterior
+    float suma=0;
     float resta=0;
     float dividir=0;
     float multiplicar=0;
