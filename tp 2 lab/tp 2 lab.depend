@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1570210876 source:c:\barela.gabriela\tp 2 lab\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employee.h"
+	"utn.h"
+
+1570210876 c:\barela.gabriela\tp 2 lab\employee.h
+
+1570211950 c:\barela.gabriela\tp 2 lab\utn.h
+
+1570202686 source:c:\barela.gabriela\tp 2 lab\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1570212230 source:c:\barela.gabriela\tp 2 lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employee.h"
+	"utn.h"
+
