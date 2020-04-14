@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586819736 source:c:\users\barela\pictures\gaby anime\labo 1 2020 baus clases apuntes\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1586821856 c:\users\barela\pictures\gaby anime\labo 1 2020 baus clases apuntes\calculadora\calcu.h
+
+1586821856 source:c:\users\barela\pictures\gaby anime\labo 1 2020 baus clases apuntes\calculadora\calcu.c
+	"calcu.h"
+
