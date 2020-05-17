@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1589681781 source:c:\users\gabri\documents\trabajo n2 practico lab1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+	"loadData.h"
+
+1589683493 c:\users\gabri\documents\trabajo n2 practico lab1\tp2\arrayemployees.h
+	"loadData.h"
+
+1589683493 source:c:\users\gabri\documents\trabajo n2 practico lab1\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"loadData.h"
+
+1589155998 c:\users\gabri\documents\trabajo n2 practico lab1\tp2\loaddata.h
+
