@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1570223283 source:c:\users\lautaro\desktop\tp 2 lab\utn.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<string.h>
-
